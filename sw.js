@@ -1,5 +1,5 @@
-const CACHE='reflexes-cabinet-ios-v1.1.1';
-const ASSETS=['./','./index.html','./styles.css','./data.js','./app.js','./manifest.webmanifest'];
+const CACHE='reflexes-cabinet-ios-v1.2.0';
+const ASSETS=['./','./index.html','./styles.css','./ios-fixes.css','./data.js','./data-zrr-frr.js','./app.js','./manifest.webmanifest'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS))));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k))))));
 self.addEventListener('fetch',e=>{
