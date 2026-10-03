@@ -1,0 +1,16 @@
+RÉFLEXES CABINET – RÉUNION
+Installation sur iPhone
+
+Cette version est une PWA (app web installable). Elle doit être publiée sur une adresse HTTPS avant l'installation.
+
+Une fois l'adresse ouverte dans SAFARI :
+1. Touchez le bouton Partager.
+2. Choisissez « Sur l’écran d’accueil ».
+3. Activez « Ouvrir comme app web ».
+4. Touchez « Ajouter ».
+
+L'icône « Réflexes Cabinet » apparaîtra sur l'écran d'accueil.
+Après la première ouverture en ligne, les fichiers principaux sont mis en cache pour permettre l'usage hors connexion.
+
+IMPORTANT
+Un fichier .ipa installable directement comme une app native nécessite une signature Apple (compte développeur / provisioning) ou une distribution TestFlight/App Store. Ce package ne contient donc pas d'.ipa signé.
