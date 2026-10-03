@@ -8,8 +8,8 @@
   "display":"standalone",
   "display_override":["standalone"],
   "orientation":"portrait-primary",
-  "background_color":"#f4f7f6",
-  "theme_color":"#0f766e",
+  "background_color":"#fff7f1",
+  "theme_color":"#fff7f1",
   "lang":"fr-FR",
   "categories":["education","business","productivity"]
 }
