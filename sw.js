@@ -1,5 +1,5 @@
-const CACHE='reflexes-cabinet-ios-v1.5.0';
-const ASSETS=['./','./index.html','./styles.css','./accessible-theme.css','./ios-fixes.css','./data.js','./data-zrr-frr.js','./app.js','./app-accessibility.js','./manifest.webmanifest'];
+const CACHE='reflexes-cabinet-ios-v1.6.0';
+const ASSETS=['./','./index.html','./styles.css','./accessible-theme.css','./ios-fixes.css','./pro-course.css','./data.js','./data-zrr-frr.js','./data-structures-pro.js','./app.js','./app-pro-course.js','./app-accessibility.js','./manifest.webmanifest'];
 
 self.addEventListener('install',event=>{
   self.skipWaiting();
