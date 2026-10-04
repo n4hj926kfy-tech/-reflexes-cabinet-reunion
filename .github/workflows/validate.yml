@@ -1,0 +1,28 @@
+name: Validate PWA
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check JavaScript syntax
+        run: |
+          for f in *.js; do
+            echo "Checking $f"
+            node --check "$f"
+          done
+      - name: Check required app files
+        run: |
+          test -f index.html
+          test -f manifest.webmanifest
+          test -f sw.js
+          test -f data-pro-all.js
+          test -f data-reductions.js
