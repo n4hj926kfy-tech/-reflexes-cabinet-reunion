@@ -25,4 +25,9 @@ jobs:
           test -f manifest.webmanifest
           test -f sw.js
           test -f data-pro-all.js
+          test -f data-zfang-expert.js
+          test -f data-cabinet-structures.js
+          test -f data-cabinet-fiscal.js
           test -f data-reductions.js
+          test -f data-reductions-complement.js
+          test -f app-pro-course.js
