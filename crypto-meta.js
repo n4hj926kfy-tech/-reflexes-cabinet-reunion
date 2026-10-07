@@ -1,4 +1,4 @@
-window.CRYPTO_KB={schema_version:"1.0",content_version:"3.2-reviewed",title:"Crypto-actifs en cabinet",as_of:"2026-10-07",language:"fr-FR",levels:[
+window.CRYPTO_KB={schema_version:"1.0",content_version:"3.3-audited",title:"Crypto-actifs en cabinet",as_of:"2026-10-07",language:"fr-FR",levels:[
 {id:1,title:"Fondations : actifs, droits et réglementation",gate:"Expliquer les droits et classer un prospect sans confondre détention et service réglementé."},
 {id:2,title:"Détention simple : données et comptabilité",gate:"Reconstituer des quantités et calculer achats, sorties et clôture."},
 {id:3,title:"Clôture, fiscalité et déclarations",gate:"Remettre A01 et A02 avec les hypothèses et points non résolus."},
