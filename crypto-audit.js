@@ -1,0 +1,9 @@
+window.CRYPTO_AUDIT={version:"3.3-audited",reviewed_on:"2026-10-07",status:"Revue croisée sur sources primaires",domains:[
+{name:"Comptabilité ANC 2026-01",status:"revue",refs:["ANC 2026-01","Arrêté du 12 août 2026"],notes:"Application obligatoire aux exercices ouverts à compter du 1er janvier 2027 ; application anticipée possible. Articles 619-8 à 619-20 contrôlés pour qualification, évaluation, échanges, gratuité, prêts/staking et cas DeFi."},
+{name:"Fiscalité IS/BIC",status:"revue avec dépendance aux faits",refs:["CGI art. 38, 39, 209","BOFiP provisions"],notes:"Pas d’automatisme comptable=fiscal. Déductibilité des provisions à tester selon les conditions fiscales et les faits."},
+{name:"TVA",status:"revue",refs:["CGI art. 261 C","CJUE C-264/14 Hedqvist","BOI-RES-TVA-000054","BOI-RES-TVA-000140"],notes:"Séparation entre moyen de paiement, opération de change et opération sous-jacente ; analyse NFT au cas par cas."},
+{name:"DAC8/CARF et déclaratif",status:"revue",refs:["CGI art. 1649 AC bis","CGI art. 1649 bis C","DGFiP CARF/DAC8"],notes:"Reporting prestataire distinct des obligations propres du contribuable ; extension déclarative des portefeuilles étrangers depuis le 1er juillet 2026."},
+{name:"MiCA / PSCA",status:"revue",refs:["Règlement UE 2023/1114","AMF MiCA"],notes:"Services MiCA contrôlés ; fin de la période transitoire française au 1er juillet 2026."},
+{name:"LCB-FT",status:"revue",refs:["CMF L.561-2 et suivants","Tracfin / CNOEC"],notes:"Expert-comptable assujetti ; blockchain analytics = outil d’aide, jamais substitut aux diligences."},
+{name:"DeFi",status:"revue dans le périmètre ANC explicite",refs:["ANC 2026-01 commentaires 619-16 à 619-20"],notes:"Prêts/staking avec restitution et exemple de pool ANC sécurisés. Bridges, liquid staking et protocoles atypiques restent à qualifier selon leurs droits et contrats ; pas de neutralité universelle."}
+]};
