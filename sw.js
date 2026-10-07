@@ -1,5 +1,5 @@
-const CACHE='reflexes-cabinet-ios-v2.2.0';
-const ASSETS=['./','./index.html','./styles.css','./accessible-theme.css','./ios-fixes.css','./pro-course.css','./crypto.css','./data.js','./data-zrr-frr.js','./data-structures-pro.js','./data-pro-all.js','./data-zfang-expert.js','./data-cabinet-structures.js','./data-cabinet-fiscal.js','./data-reductions.js','./data-reductions-complement.js','./crypto-meta.js','./crypto-modules.js','./crypto-exercises.js','./app.js','./app-pro-course.js','./app-crypto.js','./app-accessibility.js','./manifest.webmanifest'];
+const CACHE='reflexes-cabinet-ios-v3.0.0';
+const ASSETS=['./','./index.html','./styles.css','./accessible-theme.css','./ios-fixes.css','./pro-course.css','./crypto.css','./data.js','./data-zrr-frr.js','./data-structures-pro.js','./data-pro-all.js','./data-zfang-expert.js','./data-cabinet-structures.js','./data-cabinet-fiscal.js','./data-reductions.js','./data-reductions-complement.js','./crypto-meta.js','./crypto-modules.js','./crypto-exercises.js','./crypto-v3-data.js','./app.js','./app-pro-course.js','./app-crypto-v3.js','./app-crypto.js','./app-accessibility.js','./manifest.webmanifest'];
 
 self.addEventListener('install',event=>{
   self.skipWaiting();
