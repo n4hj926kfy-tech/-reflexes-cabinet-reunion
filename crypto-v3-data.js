@@ -22,8 +22,7 @@ C20:[["Une perte relative dans un pool est-elle automatiquement une perte compta
 C23:[["Un NFT est-il une immobilisation corporelle par définition ?",["oui","non, il faut qualifier le droit représenté"],1]],
 C25:[["Le nombre de transactions suffit-il à fixer un forfait ?",["oui","non"],1]],
 C26:[["Un score blockchain nul remplace-t-il les diligences LCB-FT ?",["oui","non"],1]],
-C29:[["Le meilleur test de compétence est…",["le nombre de pages lues","un dossier traçable et révisable","le temps passé"],1]]
-},,
+C29:[["Le meilleur test de compétence est…",["le nombre de pages lues","un dossier traçable et révisable","le temps passé"],1]],
 C02:[["Une donnée on-chain prouve-t-elle seule le propriétaire économique ?",["oui","non"],1],["Un hash correspond-il toujours à un seul mouvement comptable ?",["oui","non"],1],["Quel élément faut-il conserver ?",["hash, réseau et source","uniquement une capture"],0]],
 C05:[["Quel corpus répond d'abord au traitement comptable français ?",["MiCA","ANC/PCG","DAC8"],1],["Faut-il dater les textes utilisés ?",["oui","non"],0],["Tenir la comptabilité d'un détenteur est-il automatiquement un service MiCA ?",["oui","non"],1]],
 C06:[["Avant transformation des exports, il faut…",["conserver les bruts","les supprimer"],0],["Un solde initial sans historique doit-il être valorisé à zéro ?",["oui","non"],1],["Quel contrôle détecte un historique incomplet ?",["pagination et trous de période","couleur du logo"],0]],
@@ -42,7 +41,7 @@ C28:[["Les conclusions PCG se transposent-elles automatiquement en IFRS ?",["oui
 C30:[["La progression locale est-elle une sauvegarde serveur ?",["oui","non"],1],["Faut-il stocker des clés privées dans les notes ?",["oui","non"],1],["Quelle routine est préférable ?",["lecture unique massive","étude, quiz, correction, révision, pratique"],1]],
 A01:[["Quel livrable prouve l'exhaustivité des quantités ?",["rapprochement ouverture/entrées/sorties/frais/clôture","capture du cours"],0],["Une hausse latente est-elle automatiquement un produit de cession ?",["oui","non"],1],["L'atelier est-il validé si les calculs ne sont pas révisables ?",["oui","non"],1]],
 A02:[["Une transition exige-t-elle d'identifier date et ancien/nouveau traitement ?",["oui","non"],0],["Les divergences fiscales pluriannuelles doivent-elles être suivies ?",["oui","non"],0],["Une incertitude doit-elle être cachée pour rendre le dossier plus propre ?",["oui","non"],1]],
-A03:[["Le mot dépôt utilisé par une interface tranche-t-il la qualification ?",["oui","non"],1],["Un pool garantit-il la restitution des mêmes quantités ?",["toujours","pas nécessairement"],1],["Prêt et pool doivent-ils être comparés par les droits reçus ?",["oui","non"],0]],}
+A03:[["Le mot dépôt utilisé par une interface tranche-t-il la qualification ?",["oui","non"],1],["Un pool garantit-il la restitution des mêmes quantités ?",["toujours","pas nécessairement"],1],["Prêt et pool doivent-ils être comparés par les droits reçus ?",["oui","non"],0]]}
 ,traps:[
 ["Stablecoin = compte 513","Faux réflexe : qualifier d'abord juridiquement l'actif et les droits."],
 ["Wallet du dirigeant = actif de la société","Faux : documenter propriété, financement et contrôle."],
